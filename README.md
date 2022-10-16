@@ -9,7 +9,7 @@
 
 ## ⚡ VS Code Extensions
 
-| Nombre              | VS Marketplace                                                                            |
+| Name                | VS Marketplace                                                                            |
 | ------------------- | ----------------------------------------------------------------------------------------- |
 | Theme               | https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme                        |
 | Material Icon Theme | https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme             |
@@ -27,7 +27,7 @@
 
 ## 👅 Language Extensions
 
-| Nombre                                 | VS Marketplace                                                                          |
+| Name                                   | VS Marketplace                                                                          |
 | -------------------------------------- | --------------------------------------------------------------------------------------- |
 | MDX                                    | https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx                |
 | JavaScript (ES6) code snippets         | https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets          |
