@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 - 🔭 I am currently working as a Front-End developer
 - 🌱 I am currently learning TypeScript with React and Angular
