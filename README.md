@@ -12,10 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-```
 - ⚡ Extensiones de VS Code
-    | Nombre | VS Marketplace |
-    |-------------------|-------------|
-    | Theme | https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme |
-    | Prettier | https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode |
-```
+  | Nombre | VS Marketplace |
+  |-------------------|-------------|
+  | Theme | https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme |
+  | Prettier | https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode |
