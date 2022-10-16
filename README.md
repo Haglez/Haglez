@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Extensiones
   - Nombre: Theme
     - Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme
+      Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme
