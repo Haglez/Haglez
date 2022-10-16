@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 
 - ⚡ Extensiones de VS Code
   | Nombre | VS Marketplace |
-  |-------------------|-------------|
+  |----------|----------------------------------------------------------------------------|
   | Theme | https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme |
+  | Material Icon Theme | https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme |
+  | Live Share | https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare |
+  | Live Server | https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer |
+  | Mintlify | https://marketplace.visualstudio.com/items?itemName=mintlify.document |
   | Prettier | https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode |
+  | ESLint | https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint |
+  | Code Spell Checker | https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker |
+  | Error Lens | https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens |
+  | GitLens | https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens |
+  | MDX | https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx |
