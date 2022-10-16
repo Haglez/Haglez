@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Haglez/Haglez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Haglez/Haglez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-- ⚡ Extensiones de VS Code
+- ⚡ VS Code Extensions
   | Nombre | VS Marketplace |
   |--------|----------------------------------------------------------------------------|
   | Theme | https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme |
   | Material Icon Theme | https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme |
   | Live Share | https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare |
   | Live Server | https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer |
-  | Mintlify | https://marketplace.visualstudio.com/items?itemName=mintlify.document |
+  | Mintlify Doc Writer | https://marketplace.visualstudio.com/items?itemName=mintlify.document |
   | Prettier | https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode |
   | ESLint | https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint |
   | Code Spell Checker | https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker |
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   | Path Intellisense | https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense |
   | vscode-pdf | https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf |
 
-- 👅 Extensiones de Lenguajes
+- 👅 Language Extensions
   | Nombre | VS Marketplace |
   | ------ | ------------------------------------------------------------------------ |
   | MDX | https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx |
