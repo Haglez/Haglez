@@ -25,13 +25,6 @@
 | Path Intellisense   | https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense    |
 | vscode-pdf          | https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf                        |
 
-Nombre: GitHub Copilot
-ID: GitHub.copilot
-Descripción: Your AI pair programmer
-Versión: 1.53.7011
-Editor: GitHub
-Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
-
 ## 👅 Language Extensions
 
 | Nombre                                 | VS Marketplace                                                                          |
