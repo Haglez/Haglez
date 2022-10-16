@@ -20,9 +20,17 @@
 | ESLint              | https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint                |
 | Code Spell Checker  | https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker |
 | Error Lens          | https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens                  |
+| GitHub Copilot      | https://marketplace.visualstudio.com/items?itemName=GitHub.copilot                        |
 | GitLens             | https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens                       |
 | Path Intellisense   | https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense    |
 | vscode-pdf          | https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf                        |
+
+Nombre: GitHub Copilot
+ID: GitHub.copilot
+Descripción: Your AI pair programmer
+Versión: 1.53.7011
+Editor: GitHub
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
 
 ## 👅 Language Extensions
 
