@@ -30,3 +30,5 @@ Here are some ideas to get you started:
   | Nombre | VS Marketplace |
   | ------ | ------------------------------------------------------------------------ |
   | MDX | https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx |
+  | JavaScript (ES6) code snippets | https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets |
+  | ES7+ React/Redux/React-Native snippets | https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets |
