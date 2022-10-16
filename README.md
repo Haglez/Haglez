@@ -25,4 +25,8 @@ Here are some ideas to get you started:
   | Code Spell Checker | https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker |
   | Error Lens | https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens |
   | GitLens | https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens |
+
+- 👅 Lenguajes
+  | Nombre | VS Marketplace |
+  | ------ | ------------------------------------------------------------------------ |
   | MDX | https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx |
