@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Extensiones
-  Nombre: Theme
-  Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme
+  - Nombre: Theme
+    - Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme
