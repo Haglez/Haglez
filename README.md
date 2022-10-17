@@ -4,7 +4,6 @@
 - 🌱 I am currently learning TypeScript with React and Angular
 - 👯 Searched to collaborate on Google
 - 🤔 Looking for help with Back-End and DB
-- 📫 How to reach me: https://www.facebook.com/haglez30/
 - 😄 Nickname: Haglez
 
 ## ⚡ VS Code Extensions
