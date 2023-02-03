@@ -1,7 +1,7 @@
 ## Hi There 👋
 
-- 🔭 I am currently working as a Front-End developer
-- 🌱 I am currently learning TypeScript with React and Angular
+- 🔭 I am currently working as a corporate developer.
+- 🌱 I am currently learning TypeScript with React and Angular, Codeigniter.
 - 👯 Searched to collaborate on Google
 - 🤔 Looking for help with Back-End and DB
 - 😄 Nickname: Haglez
